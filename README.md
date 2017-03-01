@@ -17,7 +17,18 @@ Il est de la responsabilité du manager de s'assurer que le collaborateur ait pu
 
 ## Contributions guidelines
 
+### Projets concernés
+
 Les développeurs Arhia peuvent uniquement contribuer à un ou plusieurs des projets éligibles (voir liste ci-après).
+
+### Valeurs
+
+Dans son comportement et ses contributions, le développeur devra porter les valeurs d'Arhia.
+Il devra démonter un comportement : 
+- respectueux du/des mainteneurs du projet
+- inclusif : accueillir ouvertement, accompagner les autres développeurs externes qui interviennent sur le projet
+
+Il devra dans ses contributions s'attacher à produire du code de qualité, et qui respecte les orientations et la philosophie voulue par les mainteneurs du projet.
 
 ## Liste des projets éligibles
 
