@@ -37,5 +37,6 @@ Il devra dans ses contributions s'attacher à produire du code de qualité, et q
 | https://github.com/brianc/node-postgres | *** | *** | *** |
 | https://github.com/brianc/node-pg-query-stream | ** | *** | ** |
 | https://github.com/SweetIQ/schemats| * | *** | * |
+| https://github.com/datalanche/node-pg-format| * | * | * |
 
 
