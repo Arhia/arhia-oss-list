@@ -4,16 +4,16 @@ Liste des projets open-source éligibles pour les contributions sur le temps de 
 ## Principes
 
 Les développeurs Arhia peuvent consacrer 10% de leur temps de travail à l'open-source.
-Cette disposition est applicable uniquement aux collaborateurs de l'équipe R&D.
+Cette disposition est applicable uniquement aux collaborateurs salariés de l'équipe R&D.
 
 Ce temps peut être planifié de la façon suivante :
 - soit 1 ou 2h sur plusieurs jours de la semaine (excepté le lundi)
 - soit 4 heures à la suite (excepté le lundi)
 
-En cas d'urgence, la contribution en cours pourra être interrompue à la demande du manager.
+En cas de nécessité impérieuse, la contribution en cours pourra être interrompue à la demande du manager.
 Dans ce cas, le temps sera reporté sur le reste de la semaine.
 
-Il est de la responsabilité du manager de s'assurer que le collaborateur ait pu consacrer le temps alloué dans la semaine.
+Il est de la responsabilité du manager de s'assurer que le collaborateur ait pu consacrer à de l'OSS le temps alloué dans la semaine.
 
 ## Contributions guidelines
 
@@ -29,6 +29,10 @@ Il devra démonter un comportement :
 - inclusif : accueillir ouvertement, accompagner les autres développeurs externes qui interviennent sur le projet
 
 Il devra dans ses contributions s'attacher à produire du code de qualité, et qui respecte les orientations et la philosophie voulue par les mainteneurs du projet.
+
+Guides intéressantssur la manière de contribuer à un projet open-source :
+- https://guides.github.com/activities/contributing-to-open-source/
+- sur le comportement à adopter : https://www.djangoproject.com/conduct/
 
 ## Liste des projets éligibles
 
