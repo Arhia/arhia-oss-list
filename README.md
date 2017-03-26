@@ -25,7 +25,10 @@ Les développeurs Arhia peuvent uniquement contribuer à un ou plusieurs des pro
 
 Dans son comportement et ses contributions, le développeur devra porter les valeurs d'Arhia.
 Il devra démonter un comportement : 
-- respectueux du/des mainteneurs du projet
+- respectueux du/des mainteneurs du projet :
+    - respectueux du travail déjà effectué : ne pas le minimiser, ne pas pointer de manière négative ce qui manque ou ce qui est perfectible, mais au contraire : valoriser ce qui est déjà fait, proposer des améliorations de manière constructive.
+    - respectueux de la philosophie/des objectifs du projet : ne pas essayer d'orienter le projet dans une direction que le mainteneur ne souhaite pas, après avoir discuté de l'orientation en question. Ne pas proposer des développements que le mainteneur a d'emblée exclus. Le Readme des projets doit être lu attentivement avant de contribuer.
+    - respectuer des guidelines : appliquer les règles de commit, de lint si le mainteneur le demande expressément. De même si des tests sont obligatoirement demandés. Essayer de respecter le style d'écriture et les patterns utilisés, sauf si le mainteneur souhaite les faire évoluer.
 - inclusif : accueillir ouvertement, accompagner les autres développeurs externes qui interviennent sur le projet
 
 Il devra dans ses contributions s'attacher à produire du code de qualité, et qui respecte les orientations et la philosophie voulue par les mainteneurs du projet.
