@@ -32,7 +32,7 @@ Il devra démonter un comportement :
 
 Il devra dans ses contributions s'attacher à produire du code de qualité, et qui respecte les orientations et la philosophie voulue par les mainteneurs du projet.
 
-Guides intéressantssur la manière de contribuer à un projet open-source :
+Guides intéressants sur la manière de contribuer à un projet open-source :
 - https://guides.github.com/activities/contributing-to-open-source/
 - sur le comportement à adopter : https://www.djangoproject.com/conduct/
 
