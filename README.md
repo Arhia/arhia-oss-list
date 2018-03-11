@@ -46,13 +46,13 @@ Contribuer sur la documentation ou sur l'amélioration/l'ajout de types Typescri
 | Project | Priority for Arhia | Need for help | Technical difficulty |
 | ------------- | ------------- | ------------- | ------------- |
 | https://github.com/brianc/node-postgres | *** | *** | *** |
+| https://github.com/ant-design/ant-design | ** | * | ** |
+| https://github.com/STRML/react-grid-layout | ** | ** | *** |
 | https://github.com/brianc/node-pg-types | * | ** | * |
-| https://github.com/brianc/node-pg-query-stream | ** | *** | ** |
+| https://github.com/brianc/node-pg-query-stream | * | *** | ** |
 | https://github.com/SweetIQ/schemats | * | *** | * |
 | https://github.com/Arhia/Ext.ux.grid.Printer | * | ** | * |
 | https://github.com/yorl1n/ext.ExportableGrid | * | * | ** |
-| https://github.com/ant-design/ant-design | ** | * | ** |
-| https://github.com/STRML/react-grid-layout | ** | ** | *** |
 | https://github.com/intljusticemission/react-big-calendar | ** | ** | ? |
 | https://github.com/StephenChou1017/react-big-scheduler | * | ? | ? |
 | https://github.com/apollographql/react-apollo | * | * | *** |
