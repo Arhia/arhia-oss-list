@@ -50,13 +50,17 @@ Contribuer sur la documentation ou sur l'amélioration/l'ajout de types Typescri
 | https://github.com/brianc/node-pg-query-stream | ** | *** | ** |
 | https://github.com/SweetIQ/schemats | * | *** | * |
 | https://github.com/Arhia/Ext.ux.grid.Printer | * | ** | * |
-| https://github.com/yorl1n/ext.ExportableGrid | * | * | * |
+| https://github.com/yorl1n/ext.ExportableGrid | * | * | ** |
 | https://github.com/ant-design/ant-design | ** | * | ** |
 | https://github.com/STRML/react-grid-layout | ** | ** | *** |
 | https://github.com/intljusticemission/react-big-calendar | ** | ** | ? |
 | https://github.com/StephenChou1017/react-big-scheduler | * | ? | ? |
 | https://github.com/apollographql/react-apollo | * | * | *** |
-| https://github.com/datalanche/node-pg-format | * | * | * |
 | https://github.com/mochajs/mocha | * | ** | ** |
+| https://github.com/datalanche/node-pg-format | * | * | * |
+| https://github.com/CleverCloud/doc.clever-cloud.com | * | * | * |
+| https://github.com/picardy/chai-moment | * | * | * |
+
+
 
 
