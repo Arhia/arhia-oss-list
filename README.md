@@ -36,6 +36,10 @@ Guides intéressants sur la manière de contribuer à un projet open-source :
 - https://guides.github.com/activities/contributing-to-open-source/
 - sur le comportement à adopter : https://www.djangoproject.com/conduct/
 
+### Conseils
+
+Contribuer sur la documentation ou sur l'amélioration/l'ajout de types Typescript est plus facile que sur le code, et tout autant utile.
+
 ## Liste des projets éligibles
 
 | Project | Priority for Arhia | Need for help | Technical difficulty |
@@ -43,8 +47,12 @@ Guides intéressants sur la manière de contribuer à un projet open-source :
 | https://github.com/brianc/node-postgres | *** | *** | *** |
 | https://github.com/brianc/node-pg-query-stream | ** | *** | ** |
 | https://github.com/SweetIQ/schemats | * | *** | * |
+| https://github.com/Arhia/Ext.ux.grid.Printer | * | ** | * |
+| https://github.com/yorl1n/ext.ExportableGrid | * | * | * |
+| https://github.com/ant-design/ant-design | ** | * | ** |
+| https://github.com/STRML/react-grid-layout | ** | ** | *** |
+| https://github.com/intljusticemission/react-big-calendar | ** | ** | ? |
+| https://github.com/StephenChou1017/react-big-scheduler | * | ? | ? |
+| https://github.com/apollographql/react-apollo | * | * | *** |
 | https://github.com/datalanche/node-pg-format | * | * | * |
-|https://github.com/Arhia/Ext.ux.grid.Printer | * | ** | * |
-|https://github.com/yorl1n/ext.ExportableGrid | * | * | * |
-
 
