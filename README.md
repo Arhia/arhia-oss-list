@@ -3,22 +3,23 @@
 ## Principes
 
 Les développeurs Arhia peuvent consacrer 10% de leur temps de travail à l'open-source.
-Cette disposition est applicable uniquement aux collaborateurs salariés de l'équipe R&D.
+Cette disposition est applicable uniquement aux collaborateurs salariés en CDI de l'équipe R&D, une fois leur période d'essai terminée.
 
 Ce temps peut être planifié de la façon suivante :
 - soit 1 ou 2h sur plusieurs jours de la semaine (excepté le lundi)
 - soit 4 heures à la suite (excepté le lundi)
 
 En cas de nécessité impérieuse, la contribution en cours pourra être interrompue à la demande du manager.
-Dans ce cas, le temps sera reporté sur le reste de la semaine.
+Dans ce cas, le temps sera reporté sur le reste de la semaine ou sur la semaine suivante.
 
-Il est de la responsabilité du manager de s'assurer que le collaborateur ait pu consacrer à de l'OSS le temps alloué dans la semaine.
+Il est de la responsabilité du manager de s'assurer que le collaborateur ait pu consacrer à ces projets le temps prévu.
 
 ## Contributions guidelines
 
 ### Projets concernés
 
 Les développeurs Arhia peuvent uniquement contribuer à un ou plusieurs des projets éligibles (voir liste ci-après).
+D'autres projets peuvent être suggérés en ouvrant un ticket dans ce dépôt.
 
 ### Valeurs
 
