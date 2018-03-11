@@ -46,6 +46,7 @@ Contribuer sur la documentation ou sur l'amélioration/l'ajout de types Typescri
 | Project | Priority for Arhia | Need for help | Technical difficulty |
 | ------------- | ------------- | ------------- | ------------- |
 | https://github.com/brianc/node-postgres | *** | *** | *** |
+| https://github.com/brianc/node-pg-types | * | ** | * |
 | https://github.com/brianc/node-pg-query-stream | ** | *** | ** |
 | https://github.com/SweetIQ/schemats | * | *** | * |
 | https://github.com/Arhia/Ext.ux.grid.Printer | * | ** | * |
@@ -56,4 +57,6 @@ Contribuer sur la documentation ou sur l'amélioration/l'ajout de types Typescri
 | https://github.com/StephenChou1017/react-big-scheduler | * | ? | ? |
 | https://github.com/apollographql/react-apollo | * | * | *** |
 | https://github.com/datalanche/node-pg-format | * | * | * |
+| https://github.com/mochajs/mocha | * | ** | ** |
+
 
