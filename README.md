@@ -1,4 +1,4 @@
-# arhia-oss-list: Liste des projets open-source éligibles aux contributions sur le temps de travail.
+# Liste des projets open-source éligibles aux contributions des collaborateurs Arhia sur le temps de travail.
 
 ## Principes
 
